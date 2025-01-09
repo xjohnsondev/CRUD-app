@@ -40,7 +40,7 @@ Follow these steps to run both the backend and frontend locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/xjohnsondev/CRUD-app.git
 cd your-repo-name
 ```
 
